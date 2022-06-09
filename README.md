@@ -1,4 +1,4 @@
-# Time-Series---Forecasting-Stock-Prices
+# Forecasting-Stock-Prices With Time Series
 Used Time Series to forecast 24 months stock price of Amazon products and subscriptions. This dataset which is in excel format consists of monthly average stock closing prices of Amazon over a period of 12 years from 2006 to 2017. We must build a time series model using the AR, MA, ARMA and ARIMA models to forecast the stock closing price of Amazon.
 These four models were used to determine which one performs better at the end
 Augmented Dickey Fuller test (ADF Test) was used to test whether the given Time series was stationary or not.
